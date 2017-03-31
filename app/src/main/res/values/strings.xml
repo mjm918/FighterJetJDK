@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FighterJet</string>
+    <string name="ask">This game was Developed by JDK developers. JDK Team has three members.\n
+                       1. *J*ulfikar Mahmud\n
+                       2. *D*avid Tanugrah\n
+                       3. *K*uhandran Samudra\n
+                       JDK was formed in 2016.\n This game was made to keep all the memories alive
+                       and show the unity among all the developers of JDK</string>
+</resources>
